@@ -5,4 +5,4 @@ I am a doctoral candidate in mathematics at the University of Auckland, under th
 
 Here is my [github.io page](https://dcgroothuizendijkema.github.io) and my [university profile](https://profiles.auckland.ac.nz/david-groothuizen-dijkema).
 
-I did my undergraduate degree in engineering science, which had a focus on mathematical modelling and computation methods. Below are some of my personal coding projects from the time.
+I did my undergraduate degree in engineering science, which had a focus on mathematical modelling and computational methods. Below are some of my personal coding projects from the time.
